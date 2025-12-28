@@ -26,6 +26,32 @@ The dashboard was built using the following data tables:
 - ‎DAX Creation:
 ‎Developed DAX formulas to support dynamic calculations and advanced data analysis.
 ## Analysis
-##### KPI
+  - ##### KPI
 ‎‎A total of 12 KPIs were created using DAX:
 ‎Impressions,Clicks,‎Comments,‎Likes,‎Shares,‎Engagement,‎Engagement Rate,‎Purchases,‎Purchase Rate,Conversion Rate (CR),‎Click-Through Rate (CTR),‎Total Budget.
+  - #### Selected KPI:
+ To filter the chart on how audience responsed to the ads. this includes;‎Engagement,‎Clicks,‎Comments,Impressions,‎Likes,‎Purchases,‎
+ Shares.
+  - #### Platform Performance Summary
+  
+  **Facebook 
+- ‎Impressions: 215.97K
+- ‎Engagement: 36.80k
+- ‎Purchase:
+- ‎CTR: 11.76%
+- ‎Conversion Rate: 5.21%
+  
+  ** Instagram
+- Impressions: 123.84K
+- ‎Engagement: 21.36K
+- ‎Purchase:
+- ‎CTR: 11.86%
+- ‎Conversion Rate: 4.82%
+## Dashboard Visualizations
+‎Target Gender Analysis: Identifies which gender (Male, Female, All) responds best to ads
+‎Age Group Analysis: Shows performance metrics across different age segments
+‎Weekly Trend: Tracks engagement patterns based on ad types by week
+‎Hourly Trend: Displays hourly user activity and engagement levels
+‎Ad Type : Compares performance across different ad formats
+‎Country Analysis: Shows performance metrics by country
+‎Monthly Analysis: Highlights periods of low and high sales across the month
