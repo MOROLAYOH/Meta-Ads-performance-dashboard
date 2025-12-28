@@ -82,3 +82,6 @@ The objective of this project is to analyze and track the effectiveness of adver
 - ‎Review and optimize landing pages, as conversion rates are relatively low
 - ‎Increase retargeting efforts toward female and all-gender audiences within the 18–34 age range
 - ‎Focus ad spend on stories and carousel ads, followed by image ads, with reduced emphasis on video ads
+
+ ## Conclusion 
+The Meta Ads Performance Dashboard effectively analyzes Facebook and Instagram campaigns, highlighting top-performing audiences and ad formats. All gender and Female aged 18–34 generate the highest engagement and purchases. While CTR is strong, low conversion rates suggest the need for better landing pages and retargeting.
