@@ -7,3 +7,25 @@ The objective of this project is to analyze and track the effectiveness of adver
   - ‎Age group
   - ‎Gender
   - ‎Country
+## Data Source
+The dashboard was built using the following data tables:
+- Ads Events Table
+- ‎Ads Table
+- Calendar Table
+- Campaign Table
+- ‎User Table
+## Data Preparation and Transformation
+- Data Cleaning:
+‎Removed errors, duplicates, and missing values to ensure data accuracy and reliability.
+- ‎Data Standardization:
+‎Standardized formats for dates, text values, and categorical fields to maintain consistency.
+- ‎Derived Columns:
+‎‎CreatedCreated additional columns from existing data to generate deeper insights and improve analysis.
+- ‎Data Normalization:
+‎Normalized the data to reduce redundancy and enhance data organization and performance.
+- ‎DAX Creation:
+‎Developed DAX formulas to support dynamic calculations and advanced data analysis.
+## Analysis
+##### KPI
+‎‎A total of 12 KPIs were created using DAX:
+‎Impressions,Clicks,‎Comments,‎Likes,‎Shares,‎Engagement,‎Engagement Rate,‎Purchases,‎Purchase Rate,Conversion Rate (CR),‎Click-Through Rate (CTR),‎Total Budget.
