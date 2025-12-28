@@ -47,6 +47,9 @@ The objective of this project is to analyze and track the effectiveness of adver
 - ‎Purchase:
 - ‎CTR: 11.86%
 - ‎Conversion Rate: 4.82%
+
+  <img width="869" height="488" alt="17669138842782417230788180630099" src="https://github.com/user-attachments/assets/86c42cf1-f392-481e-8464-e3b4f7a19a7a" />
+INSTAGRAM DASHBOARD 
   
 - #### Dashboard Visualizations
 - Target Gender Analysis: Identifies which gender (Male, Female,    All) responds best to ads
