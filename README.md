@@ -5,7 +5,7 @@
 - [Project Scope](#Project-Scope)
 - [Data Source](#Data-Source)
 - [Tool Used](#Tool-Used)
-- [Data Preparation and transformation](#Data-Preparation-and-transfornation)
+- [Data Preparation and Transformation](#Data-Preparation-and-Transfornation)
 - [Analysis](#Analysis)
 - [Key Observation](#Key-Observation)
 - [Recommendations](#Recommendations)
