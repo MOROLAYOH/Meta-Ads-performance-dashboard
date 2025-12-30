@@ -58,6 +58,9 @@ The objective of this project is to analyze and track the effectiveness of adver
 - ‎Purchase:
 - ‎CTR: 11.76%
 - ‎Conversion Rate: 5.21%
+  
+<img width="871" height="493" alt="17671362628103170384996517242747" src="https://github.com/user-attachments/assets/8b330c07-2c47-41a8-ba29-dc8f7040cf4e" />
+
 
   Facebook Dashboard
   
