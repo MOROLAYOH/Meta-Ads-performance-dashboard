@@ -58,6 +58,8 @@ The objective of this project is to analyze and track the effectiveness of adver
 - ‎Purchase:
 - ‎CTR: 11.76%
 - ‎Conversion Rate: 5.21%
+
+  Facebook Dashboard
   
   **Instagram**
 - Impressions: 123.84K
@@ -66,6 +68,7 @@ The objective of this project is to analyze and track the effectiveness of adver
 - ‎CTR: 11.86%
 - ‎Conversion Rate: 4.82%
 
+<img width="865" height="493" alt="17671362021112845296142402890014" src="https://github.com/user-attachments/assets/5eed22da-3479-4346-b63d-63c8e87aa063" />
 
 INSTAGRAM DASHBOARD 
   
