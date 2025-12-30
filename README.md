@@ -1,6 +1,16 @@
 # Meta-Ads-performance-dashboard
 
-
+## Table of content
+- [Project Overview](#Project-Overview)
+- [Project Scope](#Project-Scope)
+- [Data Source](#Data-Source)
+- [Tool Used](#Tool-Used)
+- [Data Preparation and transformation](#Data-Preparation-and-transfornation)
+- [Analysis](#Analysis)
+- [Key Observation](#Key-Observation)
+- [Recommendations](#Recommendations)
+- [Conclusion](#Conclusion)
+  
 ## Project Overview 
 The objective of this project is to analyze and track the effectiveness of advertising campaigns across Facebook and Instagram. The dashboard provides insights into key performance metrics such as impressions, clicks, engagement, purchases, likes, and shares, while also identifying behavioral patterns across diverse audience segments. These insights help stakeholders understand where to focus ad optimization efforts to improve overall campaign performance.
 ## Project Scope
@@ -9,7 +19,9 @@ The objective of this project is to analyze and track the effectiveness of adver
   - ‎Age group
   - ‎Gender
   - ‎Country
+    
 ## Data Source
+
 
 **Tables Data**
 - Ads Events Table
@@ -17,6 +29,9 @@ The objective of this project is to analyze and track the effectiveness of adver
 - Calendar Table
 - Campaign Table
 - ‎User Table
+
+## Tool Used
+- Power BI 
 ## Data Preparation and Transformation
 - Data Cleaning:
 ‎Removed errors, duplicates, and missing values to ensure data accuracy and reliability.
@@ -51,7 +66,7 @@ The objective of this project is to analyze and track the effectiveness of adver
 - ‎CTR: 11.86%
 - ‎Conversion Rate: 4.82%
 
-  <img width="869" height="488" alt="17669138842782417230788180630099" src="https://github.com/user-attachments/assets/86c42cf1-f392-481e-8464-e3b4f7a19a7a" />
+
 INSTAGRAM DASHBOARD 
   
 - #### Dashboard Visualizations
